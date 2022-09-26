@@ -27,9 +27,9 @@ Learn more about three components respectively:
 - `CBData`_: Distributed Training
 - `CBScenario`_: Scalable Hyperparameter Tuning
 
-.. _`CBEngine`: https://cblab-documentation.readthedocs.io/en/latest/content/cbengine/cbengine.html
-.. _`CBData`: https://cblab-documentation.readthedocs.io/en/latest/content/cbdata/cbdata.html
-.. _`CBScenario`: https://cblab-documentation.readthedocs.io/en/latest/content/cbscenario/cbscenario.html
+- `CBEngine`_: Scalable traffic simulator
+- `CBData`_: Pipelines providing simulation inputs and learning to simulate
+- `CBScenario`_: Benchmark framework for large-scale traffic policies
 
 Why CBLab?
 ----------
