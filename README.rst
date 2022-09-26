@@ -23,10 +23,6 @@ networks based on only raw traffic data.
 
 Learn more about three components respectively:
 
-- `CBEngine`_: Distributed Data Preprocessing
-- `CBData`_: Distributed Training
-- `CBScenario`_: Scalable Hyperparameter Tuning
-
 - `CBEngine`_: Scalable traffic simulator
 - `CBData`_: Pipelines providing simulation inputs and learning to simulate
 - `CBScenario`_: Benchmark framework for large-scale traffic policies
