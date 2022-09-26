@@ -1,0 +1,23 @@
+# TMP:
+*.swp
+*.swo
+*.swn
+*.tmp
+*.cf
+
+# Bazel:
+bazel-*
+
+# OSX:
+*.DS_Store
+
+# Others:
+.idea
+.vscode
+*.obj
+*.exe
+log
+*~
+
+# trash
+*pack-*

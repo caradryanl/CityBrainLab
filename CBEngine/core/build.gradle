@@ -1,0 +1,19 @@
+defaultTasks 'build'
+
+project.group = 'city-brain'
+project.version = "0.0.1"
+
+ext {
+    env = System.getenv()
+}
+
+def imageName = "city-brain:0.0.1"
+
+task build(type: Exec) {
+    workingDir '.'
+    commandLine 'docker', 'build', '-t', imageName, '-f', 'Dockerfile', '.'
+}
+
+task test(type: Exec, dependsOn: 'build') {
+    commandLine 'docker', 'run', '-d', '--name', "city-brain",  imageName
+}

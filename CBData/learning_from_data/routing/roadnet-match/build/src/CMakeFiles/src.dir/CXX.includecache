@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/nas/home/cilab/Caradryan/CBLab/CBData/learning_from_data/routing/roadnet-match/head/utils.h
+vector
+-
+string
+-
+sstream
+-
+iostream
+-
+cmath
+-
+sys/stat.h
+-
+sys/types.h
+-
+dirent.h
+-
+direct.h
+-
+io.h
+-
+
+/mnt/nas/home/cilab/Caradryan/CBLab/CBData/learning_from_data/routing/roadnet-match/src/utils.cpp
+../head/utils.h
+/mnt/nas/home/cilab/Caradryan/CBLab/CBData/learning_from_data/routing/roadnet-match/head/utils.h
+

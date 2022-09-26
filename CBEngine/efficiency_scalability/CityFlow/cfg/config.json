@@ -1,0 +1,12 @@
+{
+    "interval": 1.0,
+    "seed": 0,
+    "dir": "/CityFlow_experiment",
+    "roadnetFile": "/data/roadnet.json",
+    "flowFile": "/data/flow.json",
+    "rlTrafficLight": true,
+    "saveReplay": false,
+    "roadnetLogFile": "/replay/roadnetLog.json",
+    "replayLogFile": "/replay/replayLog.txt",
+    "laneChange": false
+}

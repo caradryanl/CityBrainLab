@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsrc.a  CMakeFiles/src.dir/checker.cpp.o CMakeFiles/src.dir/filter.cpp.o CMakeFiles/src.dir/graph.cpp.o CMakeFiles/src.dir/kdtree.cpp.o CMakeFiles/src.dir/log.cpp.o CMakeFiles/src.dir/matcher.cpp.o CMakeFiles/src.dir/utils.cpp.o
+/usr/bin/ranlib libsrc.a

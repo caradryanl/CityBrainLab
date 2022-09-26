@@ -1,0 +1,8 @@
+pandas
+matplotlib
+pillow
+tensorflow
+tensorboard
+tensorboardX
+pytorch
+torchvision

@@ -1,0 +1,6 @@
+{
+	"dir": "dataset/manhattan/",
+	"roadnetFile": "roadnet_manhattan.txt",
+	"flowFile": "flow_manhattan.txt",
+	"routeFile": "optional_routes_manhattan.json"
+}
