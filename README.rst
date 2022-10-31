@@ -6,9 +6,8 @@
 News
 ----------
 
-**2022/10/31**: We have released the user interface for the visualization of our simulation. See the `documentation`_ for more details.
+**2022/10/31**: We have released the user interface for the visualization of our simulation. See the `documentation <https://cblab-documentation.readthedocs.io/en/latest/content/cbengine/cbengine.html#visualization>`_ for more details.
 
-.. _`documentation`: https://cblab-documentation.readthedocs.io/en/latest/content/cbengine/cbengine.html
 
 \
 
