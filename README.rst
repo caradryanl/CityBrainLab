@@ -3,6 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+News
+----------
+
+**2022/10/31**: We have released the user interface for the visualization of our simulation. See the `documentation`_ for more details.
+
+.. _`documentation`: https://cblab-documentation.readthedocs.io/en/latest/content/cbengine/cbengine.html
+
+\
+
 .. image:: docs/figs/logo.png
 
 \

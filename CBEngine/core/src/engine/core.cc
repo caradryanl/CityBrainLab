@@ -263,6 +263,7 @@ std::map<int, double> Core::GetVehicleSpeed() {
 }
 
 double Core::GetCurrentTime() { return current_time_; }
+
 void Core::NextStep() {
     Common::GetTimer() = current_time_;
     clock_t start,end;
