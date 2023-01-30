@@ -10,7 +10,7 @@ import xml.dom.minidom as minidom
 
 
 class Traffic_generator:
-    def __init__(self, city, main_folder, output_folder, bbox, numveh, delete_opposite=True, traffic_duration=1200, beta=0.2):
+    def __init__(self, city, main_folder, output_folder, numveh, delete_opposite=True, traffic_duration=1200, beta=0.2):
 
         self.numveh = numveh
         self.beta = beta
