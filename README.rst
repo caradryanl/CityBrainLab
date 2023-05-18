@@ -6,6 +6,18 @@
 News
 ----------
 
+**2023/5/16**: CBLab has been accepted as a full paper in ADS Track of KDD2023. Use this link to cite our paper:
+
+.. code-block::
+
+    @article{liang2022cblab,
+      title={CBLab: Scalable Traffic Simulation with Enriched Data Supporting},
+      author={Liang, Chumeng and Huang, Zherui and Liu, Yicheng and Liu, Zhanyu and Zheng, Guanjie and Shi, Hanyuan and Du, Yuhao and Li, Fuliang and Li, Zhenhui},
+      journal={arXiv preprint arXiv:2210.00896},
+      year={2022}
+      }
+ 
+
 **2022/10/31**: We have released the user interface for the visualization of our simulation. See the `documentation <https://cblab-documentation.readthedocs.io/en/latest/content/cbengine/cbengine.html#visualization>`_ for more details.
 
 
